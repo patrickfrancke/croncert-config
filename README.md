@@ -17,7 +17,7 @@ If you know a concert venue that you'd like to add to [concertcloud.live](https:
 
 ### How to add a config snippet - with AI
 
-There is a skill at `./github/skills/create-venue-scraper-config/SKILL.md` that you can use your together with your favourite AI to create a new scraper configuration just based on the venue's URL. It works quite well. If it doesn't, continue with the next section.
+There is a skill at `./github/skills/create-venue-scraper-config/SKILL.md` that you can use together with your favourite AI to create a new scraper configuration just based on the venue's URL. It works quite well. If it doesn't, continue with the next section.
 
 ### How to add a config snippet - step by step
 
