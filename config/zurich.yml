@@ -2744,5 +2744,10 @@ scrapers:
         date_location: CET
         date_language: en_US
         components_layout:
+      - name: genresText
+        type: text
+        on_subpage: url
+        location:
+          - selector: span.bg-neutral-700.rounded.px-2.py-1
     fetcher:
       type: static
